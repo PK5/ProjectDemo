@@ -48,6 +48,9 @@
                 <div>                  
                     change1 in projectdemo1 branch
                 </div>
+                <div>                  
+                    change2 in master branch
+                </div>
                  
             </asp:Panel>
         </asp:Panel>
